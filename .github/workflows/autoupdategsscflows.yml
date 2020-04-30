@@ -2,7 +2,7 @@ name: Automated data update
 
 on:
   schedule:
-    - cron:  '/2 * * * *'
+    - cron:  '* * * * *'
 
 jobs:
   update:
