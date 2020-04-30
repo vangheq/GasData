@@ -16,7 +16,7 @@ jobs:
         architecture: x64
 
     - run: |
-        pip install pandas requests
+        pip install pandas requests lxml
         python GsscFlowV.0.3.py
 
     - name: Commit files
