@@ -19,6 +19,7 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-180,Skarv,New,2020-04-02 09:00,2020-06-03 06:00,2020-06-04 06:00,-10.5,Yearly maintenance
 2020-88,Kollsnes,New,2019-12-11 15:00,2020-06-04 06:00,2020-06-09 06:00,-19.5,Yearly maintenance
 2020-37,Kollsnes,Rev. 1,2019-12-11 15:00,2020-06-09 06:00,2020-06-14 06:00,-19.5,Yearly maintenance
+2020-206,Kristin,New,2020-05-11 14:00,2020-06-10 06:00,2020-06-11 06:00,-16.0,Yearly maintenance
 2020-66,Åsgard,Rev. 3,2020-01-21 13:55,2020-06-22 06:00,2020-06-29 06:00,-5.0,Yearly maintenance
 2020-67,Åsgard,Rev. 3,2020-04-22 11:30,2020-06-25 06:00,2020-06-26 06:00,-2.0,Yearly maintenance
 2020-200,Åsgard,New,2020-04-22 11:30,2020-07-09 06:00,2020-07-10 06:00,-8.0,Yearly maintenance
@@ -52,11 +53,11 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-49,Oseberg,Rev. 4,2020-04-21 11:00,2020-09-17 06:00,2020-10-02 06:00,-2.0,Yearly maintenance
 2020-197,Kårstø,New,2020-04-21 11:00,2020-09-21 06:00,2020-10-01 06:00,-9.6,Yearly maintenance
 2020-48,Ormen Lange,New,2019-10-11 12:00,2020-09-21 06:00,2020-09-26 06:00,-6.0,Yearly maintenance
-2020-91,Kristin,Rev. 1,2020-04-22 11:30,2020-09-22 06:00,2020-09-25 06:00,-16.0,Yearly maintenance
 2020-77,Åsgard,Rev. 2,2020-04-22 11:30,2020-09-23 06:00,2020-09-26 06:00,-27.0,Yearly maintenance
 2020-32,Gullfaks,Rev. 1,2020-01-22 15:00,2020-09-23 06:00,2020-09-24 06:00,-11.0,Yearly maintenance
 2020-198,Kårstø,New,2020-04-21 11:00,2020-09-23 06:00,2020-09-24 06:00,-57.6,Yearly maintenance
-2020-116,Kristin,Rev. 1,2020-04-22 11:30,2020-09-25 06:00,2020-09-26 06:00,-8.0,Yearly maintenance
+2020-91,Kristin,Rev. 2,2020-05-11 14:00,2020-09-23 06:00,2020-09-24 06:00,-16.0,Yearly maintenance
+2020-116,Kristin,Rev. 2,2020-05-11 14:00,2020-09-24 06:00,2020-09-25 06:00,-5.0,Yearly maintenance
 2020-94,Troll,Rev. 1,2020-01-17 15:00,2020-09-26 06:00,2020-09-30 06:00,-20.0,Yearly maintenance
 2020-78,Åsgard,Rev. 2,2020-04-22 11:30,2020-10-01 06:00,2020-10-02 06:00,-2.0,Yearly maintenance
 2020-50,Oseberg,Rev. 1,2020-01-22 15:00,2020-10-15 06:00,2020-10-16 06:00,-26.0,Yearly maintenance
