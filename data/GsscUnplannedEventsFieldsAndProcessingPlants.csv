@@ -2,4 +2,4 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Volume impa
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-209,Visund,Rev. 2,2020-05-13 14:07,2020-05-13 11:44,,-6.2,-8.0,-6.2,-8.0,,
 2020-208,Kvitebjørn,Rev. 2,2020-05-13 14:09,2020-05-13 11:43,,-4.8,-7.3,-4.8,-7.3,,
-2020-207,Kollsnes,New,2020-05-13 09:13,2020-05-13 09:02,,unknown,unknown,unknown,unknown,,
+2020-207,Kollsnes,No consequence,2020-05-13 18:22,2020-05-13 09:02,2020-05-13 18:22,0.0,0.0,0.0,0.0,,
