@@ -1,5 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-209,field,New,2020-05-13 11:50,2020-05-13 11:44,,unknown,unknown,unknown,unknown,,
+2020-209,Visund,Rev. 1,2020-05-13 13:11,2020-05-13 11:44,,-6.2,0.0,-6.2,0.0,,
 2020-208,Kvitebjørn,Rev. 1,2020-05-13 13:10,2020-05-13 11:43,,-4.8,0.0,-4.8,0.0,,
 2020-207,Kollsnes,New,2020-05-13 09:13,2020-05-13 09:02,,unknown,unknown,unknown,unknown,,
