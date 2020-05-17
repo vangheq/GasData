@@ -1,6 +1,6 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
 2020-68,Fields Delivering into SEGAL,Rev. 4,2020-05-06 10:48,2020-05-06 06:00,2020-05-25 06:00,-15.0,Yearly maintenance Impact GD 06.05: -4 MSm³/d due to ramp down
-2020-141,Dunkerque,Rev. 1,2020-03-23 14:00,2020-05-13 06:00,2020-05-20 06:00,-8.9,Yearly maintenance
+2020-141,Dunkerque,Rev. 4,2020-05-17 19:38,2020-05-13 06:00,2020-05-18 06:00,-8.9,Yearly maintenance
 2020-142,Dunkerque,Rev. 1,2020-03-23 14:00,2020-05-20 06:00,2020-05-23 06:00,-8.9,Yearly maintenance
 2020-193,Fields Delivering into SEGAL,New,2020-04-21 11:00,2020-07-29 06:00,2020-07-31 06:00,-15.0,"Yearly maintenance, ramp up GD 30.07, capacity -12"
 2020-97,Fields Delivering into SEGAL,Rev. 3,2020-04-27 14:00,2020-08-20 06:00,2020-08-27 06:00,-15.0,Yearly maintenance
