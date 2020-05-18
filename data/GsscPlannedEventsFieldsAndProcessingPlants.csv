@@ -1,5 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
-2020-99,Gullfaks,Rev. 5,2020-05-17 23:23,2020-05-16 06:00,,6.0,"Injection compressor maintenance. Impact 16.05: +6 MSm3. -- Impact 17.05: +5,5 MSm3. -- Impact GD 18.05 +2,5 MSm3."
+2020-99,Gullfaks,Rev. 6,2020-05-18 15:32,2020-05-16 06:00,2020-05-19 06:00,6.0,"Injection compressor maintenance. Impact 16.05: +6 MSm3. -- Impact 17.05: +5,5 MSm3. -- Impact GD 18.05 -1 MSm3."
 2020-36,Kollsnes,Rev. 1,2019-12-11 15:00,2020-05-18 06:00,2020-05-24 06:00,-42.5,Yearly maintenance
 2020-188,Troll,New,2020-04-15 08:15,2020-05-18 06:00,2020-05-28 06:00,-38.0,Yearly maintenance
 2020-194,Kårstø,New,2020-04-21 11:00,2020-05-18 06:00,2020-05-28 06:00,-12.6,Yearly maintenance
