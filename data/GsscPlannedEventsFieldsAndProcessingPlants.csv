@@ -3,10 +3,11 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-57,Troll,Rev. 6,2020-04-15 08:15,2020-05-28 06:00,2020-05-30 06:00,-15.0,Yearly maintenance
 2020-195,Kårstø,New,2020-04-21 11:00,2020-06-01 06:00,2020-06-13 06:00,-5.6,Yearly maintenance
 2020-88,Kollsnes,New,2019-12-11 15:00,2020-06-04 06:00,2020-06-09 06:00,-19.5,Yearly maintenance
+2020-225,Aasta Hansteen,New,2020-05-29 11:30,2020-06-08 06:00,2020-06-10 06:00,-25.0,Yearly maintenance
 2020-37,Kollsnes,Rev. 1,2019-12-11 15:00,2020-06-09 06:00,2020-06-14 06:00,-19.5,Yearly maintenance
 2020-206,Kristin,New,2020-05-11 14:00,2020-06-10 06:00,2020-06-11 06:00,-16.0,Yearly maintenance
-2020-177,Oseberg,Rev. 5,2020-05-20 14:40,2020-06-11 06:00,2020-06-16 06:00,23.0,"Yearly maintenance, increase in flexible field minimum flow"
 2020-180,Skarv,Rev. 1,2020-05-26 15:00,2020-06-17 06:00,2020-06-18 06:00,-5.0,Yearly maintenance
+2020-177,Oseberg,Rev. 6,2020-05-29 11:30,2020-06-18 06:00,2020-06-23 06:00,23.0,"Yearly maintenance, increase in flexible field minimum flow"
 2020-67,Åsgard,Rev. 4,2020-05-26 15:00,2020-06-20 06:00,2020-06-21 06:00,-4.0,Yearly maintenance
 2020-200,Åsgard,New,2020-04-22 11:30,2020-07-09 06:00,2020-07-10 06:00,-8.0,Yearly maintenance
 2020-221,Visund,New,2020-05-22 10:05,2020-08-01 06:00,2020-08-06 06:00,-15.0,Yearly maintenance
@@ -38,8 +39,8 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-197,Kårstø,New,2020-04-21 11:00,2020-09-21 06:00,2020-10-01 06:00,-9.6,Yearly maintenance
 2020-48,Ormen Lange,New,2019-10-11 12:00,2020-09-21 06:00,2020-09-26 06:00,-6.0,Yearly maintenance
 2020-77,Åsgard,Rev. 2,2020-04-22 11:30,2020-09-23 06:00,2020-09-26 06:00,-27.0,Yearly maintenance
-2020-198,Kårstø,New,2020-04-21 11:00,2020-09-23 06:00,2020-09-24 06:00,-57.6,Yearly maintenance
 2020-32,Gullfaks,Rev. 1,2020-01-22 15:00,2020-09-23 06:00,2020-09-24 06:00,-11.0,Yearly maintenance
+2020-198,Kårstø,New,2020-04-21 11:00,2020-09-23 06:00,2020-09-24 06:00,-57.6,Yearly maintenance
 2020-91,Kristin,Rev. 2,2020-05-11 14:00,2020-09-23 06:00,2020-09-24 06:00,-16.0,Yearly maintenance
 2020-116,Kristin,Rev. 2,2020-05-11 14:00,2020-09-24 06:00,2020-09-25 06:00,-5.0,Yearly maintenance
 2020-218,Troll,New,2020-05-20 14:15,2020-09-26 06:00,2020-10-01 06:00,-20.0,Yearly maintenance
@@ -58,8 +59,8 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2021-15,Kristin,Rev. 1,2019-10-21 12:37,2021-01-01 06:00,2021-01-02 06:00,-16.0,Yearly maintenance
 2021-45,Åsgard,New,2019-12-19 14:07,2021-01-21 06:00,2021-01-22 06:00,-12.7,Yearly maintenance
 2021-65,Åsgard,New,2020-05-26 15:05,2021-02-10 06:00,2021-02-11 06:00,-7.0,Yearly maintenance
-2021-52,Gullfaks,New,2020-02-21 11:01,2021-03-01 06:00,2021-03-04 06:00,-6.0,Yearly maintenance
 2021-64,Gina Krog,New,2020-05-20 09:00,2021-03-01 06:00,2021-03-02 06:00,-7.0,Yearly maintenance
+2021-52,Gullfaks,New,2020-02-21 11:01,2021-03-01 06:00,2021-03-04 06:00,-6.0,Yearly maintenance
 2021-49,Oseberg,Rev. 1,2020-04-21 11:05,2021-03-07 06:00,2021-03-09 06:00,-2.0,Yearly maintenance
 2021-59,Åsgard,New,2020-04-22 11:35,2021-03-11 06:00,2021-03-12 06:00,-10.0,Yearly maintenance
 2021-50,Oseberg,Rev. 1,2020-04-21 11:05,2021-03-16 06:00,2021-03-20 06:00,-8.0,Yearly maintenance
@@ -95,16 +96,16 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2021-67,Åsgard,New,2020-05-26 15:05,2021-07-22 06:00,2021-07-23 06:00,-8.0,Yearly maintenance
 2021-68,Åsgard,New,2020-05-26 15:05,2021-07-28 06:00,2021-07-29 06:00,-8.0,Yearly maintenance
 2021-37,Troll,Rev. 2,2020-04-15 08:25,2021-08-09 06:00,2021-09-01 06:00,-28.0,Yearly maintenance
-2021-12,Kollsnes,Rev. 1,2019-10-21 12:37,2021-08-21 06:00,2021-08-23 06:00,-26.5,Yearly maintenance
 2021-14,Kollsnes,Rev. 2,2020-02-11 14:00,2021-08-21 06:00,2021-09-25 06:00,-19.5,Yearly maintenance
+2021-12,Kollsnes,Rev. 1,2019-10-21 12:37,2021-08-21 06:00,2021-08-23 06:00,-26.5,Yearly maintenance
 2021-69,Åsgard,New,2020-05-26 15:05,2021-08-26 06:00,2021-08-27 06:00,-12.0,Yearly maintenance
 2021-30,Sleipner,Rev. 1,2019-10-21 12:37,2021-08-27 06:00,2021-09-16 06:00,-12.0,Yearly maintenance
 2021-6,Gina Krog,Rev. 1,2019-10-21 12:37,2021-08-27 06:00,2021-09-17 06:00,-7.0,Yearly maintenance
 2021-38,Troll,Rev. 2,2020-04-15 08:25,2021-09-01 06:00,2021-09-13 06:00,-21.0,Yearly maintenance
 2021-13,Kollsnes,Rev. 1,2019-10-21 12:37,2021-09-05 06:00,2021-09-10 06:00,-40.5,Yearly maintenance
 2021-58,Troll,New,2020-04-15 08:25,2021-09-13 06:00,2021-09-25 06:00,-21.0,Yearly maintenance
-2021-23,Nyhamna,Rev. 1,2019-10-21 12:37,2021-09-14 06:00,2021-09-15 06:00,-65.0,Yearly maintenance
 2021-1,Aasta Hansteen,Rev. 1,2019-10-21 12:37,2021-09-14 06:00,2021-09-15 06:00,-25.0,Yearly maintenance
+2021-23,Nyhamna,Rev. 1,2019-10-21 12:37,2021-09-14 06:00,2021-09-15 06:00,-65.0,Yearly maintenance
 2021-24,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-14 06:00,2021-09-15 06:00,-37.0,Yearly maintenance
 2021-25,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-15 06:00,2021-09-18 06:00,-6.0,Yearly maintenance
 2021-26,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-20 06:00,2021-09-25 06:00,-6.0,Yearly maintenance
