@@ -1,3 +1,3 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-227,Oseberg,Rev. 2,2020-06-01 06:01,2020-06-01 06:00,,0.0,0.0,-5.0,-5.0,,Minimum availability at Oseberg is reduced.
+2020-227,Oseberg,Rev. 3,2020-06-02 06:40,2020-06-01 06:00,,0.0,0.0,-5.0,-5.0,,Minimum availability at Oseberg is reduced.
