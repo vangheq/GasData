@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-230,field,New,2020-06-03 20:19,2020-06-03 20:03,,unknown,unknown,unknown,unknown,,
+2020-230,Troll,Rev. 1,2020-06-03 20:24,2020-06-03 20:03,2020-06-05 06:00,-1.5,0.0,-11.0,-11.0,2 days,Compressor failure
 2020-229,Kvitebjørn,Rev. 3,2020-06-03 06:03,2020-06-02 09:06,,-5.0,0.0,-5.0,0.0,12-24 hours,Compressor failure
