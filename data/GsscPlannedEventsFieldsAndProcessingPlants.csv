@@ -1,7 +1,7 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
 2020-195,Kårstø,New,2020-04-21 11:00,2020-06-01 06:00,2020-06-13 06:00,-5.6,Yearly maintenance
-2020-228,Gullfaks,New,2020-06-01 11:00,2020-06-03 06:00,2020-06-08 06:00,-7.0,Corrective maintenance
 2020-88,Kollsnes,New,2019-12-11 15:00,2020-06-04 06:00,2020-06-09 06:00,-19.5,Yearly maintenance
+2020-228,Gullfaks,Rev. 1,2020-06-03 10:11,2020-06-05 06:00,2020-06-08 06:00,-7.0,Corrective maintenance. Delayed start of maintenance from 03.06.2020 to 05.06.2020.
 2020-225,Aasta Hansteen,New,2020-05-29 11:30,2020-06-08 06:00,2020-06-10 06:00,-25.0,Yearly maintenance
 2020-37,Kollsnes,Rev. 1,2019-12-11 15:00,2020-06-09 06:00,2020-06-14 06:00,-19.5,Yearly maintenance
 2020-206,Kristin,New,2020-05-11 14:00,2020-06-10 06:00,2020-06-11 06:00,-16.0,Yearly maintenance
