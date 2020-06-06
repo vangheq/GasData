@@ -1,3 +1,3 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-230,Troll,Rev. 8,2020-06-05 13:12,2020-06-03 20:03,,0.0,0.0,-11.0,-11.0,Until 09.06.2020,Compressor failure
+2020-230,Troll,Rev. 9,2020-06-06 06:01,2020-06-03 20:03,,0.0,0.0,-11.0,-11.0,Until 09.06.2020,Compressor failure
