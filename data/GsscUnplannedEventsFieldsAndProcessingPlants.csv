@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-231,Aasta Hansteen,Rev. 1,2020-06-09 06:01,2020-06-08 16:36,,-4.0,0.0,-4.0,0.0,,
+2020-231,Aasta Hansteen,Rev. 2,2020-06-10 05:44,2020-06-08 16:36,2020-06-10 06:00,-4.0,0.0,-4.0,0.0,,
 2020-230,Troll,Rev. 15,2020-06-09 06:01,2020-06-03 20:03,,0.0,0.0,-11.0,-14.0,Until 15.06.2020,"Compressor failure, GD 10.06 the reduction is -14 due to maintenance at Troll C."
