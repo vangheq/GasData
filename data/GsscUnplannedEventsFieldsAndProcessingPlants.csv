@@ -1,3 +1,3 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-230,Troll,Rev. 17,2020-06-11 05:59,2020-06-03 20:03,,0.0,0.0,-11.0,-11.0,Until 15.06.2020,"Compressor failure, GD 10.06 the reduction is -14 due to maintenance at Troll C."
+2020-230,Troll,Rev. 19,2020-06-12 09:30,2020-06-03 20:03,2020-06-13 05:59,0.0,0.0,-11.0,0.0,,Published end of event
