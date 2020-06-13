@@ -1,3 +1,3 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-235,Nyhamna,New,2020-06-13 08:19,2020-06-13 07:43,,unknown,unknown,unknown,unknown,,
+2020-235,Nyhamna,No consequence,2020-06-13 11:14,2020-06-13 07:43,2020-06-13 11:14,0.0,0.0,0.0,0.0,,
