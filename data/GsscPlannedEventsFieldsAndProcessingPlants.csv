@@ -1,6 +1,6 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
 2020-244,Troll,Rev. 1,2020-06-23 18:28,2020-06-24 06:00,2020-06-27 06:00,-17.0,Compressor maintenance
-2020-177,Oseberg,Rev. 13,2020-06-24 01:23,2020-06-24 06:00,2020-06-28 06:00,0.0,"Yearly maintenance is postponed, Gassco will come back with more information when received from field."
+2020-177,Oseberg,Rev. 14,2020-06-24 01:43,2020-06-24 06:00,2020-06-28 06:00,14.0,"Yearly maintenance is postponed, Gassco will come back with more information when received from field."
 2020-238,Gullfaks,Rev. 1,2020-06-18 13:14,2020-06-29 06:00,2020-07-01 06:00,-10.0,Yearly maintenance
 2020-239,Gullfaks,New,2020-06-16 10:45,2020-07-01 06:00,2020-07-15 06:00,-7.0,Yearly maintenance
 2020-215,Troll,Rev. 1,2020-06-23 11:00,2020-07-06 06:00,2020-07-10 06:00,-18.0,Yearly maintenance
