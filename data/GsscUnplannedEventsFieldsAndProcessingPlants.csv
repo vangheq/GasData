@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-246,Norne,Rev. 1,2020-06-24 13:44,2020-06-24 20:00,,-1.5,-6.6,-1.5,-6.6,2-3 days,Corrective maintenance
-2020-243,Gullfaks,Rev. 22,2020-06-24 11:55,2020-06-17 12:09,,-5.0,-1.9,-5.0,-1.9,12 days,Increased minimum availability due to lack of injection capacity. Reduced availability 23.06 and 24.06 due to injection test.
+2020-246,Norne,Rev. 2,2020-06-25 07:48,2020-06-24 20:00,,-6.6,-6.6,-6.6,-6.6,2-3 days,Corrective maintenance
+2020-243,Gullfaks,Rev. 23,2020-06-25 07:50,2020-06-17 12:09,,-1.9,0.0,-1.9,0.0,12 days,Increased minimum availability due to lack of injection capacity. Reduced availability 23.06 and 24.06 due to injection test.
