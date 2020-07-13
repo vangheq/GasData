@@ -1,5 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
-2020-200,Åsgard,Rev. 3,2020-07-10 12:25,2020-07-15 06:00,2020-07-16 06:00,-3.0,Yearly maintenance
+2020-200,Åsgard,Cancelled,2020-07-13 14:05,2020-07-15 06:00,2020-07-16 06:00,0.0,"Postponed, new event will be published when date is set."
 2020-221,Visund,New,2020-05-22 10:05,2020-08-01 06:00,2020-08-06 06:00,-15.0,Yearly maintenance
 2020-240,Gullfaks,Rev. 1,2020-07-09 12:23,2020-08-01 06:00,2020-08-16 06:00,-4.5,Yearly maintenance
 2020-76,Åsgard,Rev. 2,2020-04-22 11:30,2020-08-06 06:00,2020-08-07 06:00,-8.0,Yearly maintenance
