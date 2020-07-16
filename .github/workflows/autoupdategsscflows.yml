@@ -12,7 +12,7 @@ jobs:
     - name: Scrape and build data
       uses: actions/setup-python@v1
       with:
-        python-version: '3.6.10'
+        python-version: '3.8.3'
         architecture: x64
 
     - run: |
