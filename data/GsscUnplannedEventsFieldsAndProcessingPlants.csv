@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-271,Kvitebjørn,Rev. 1,2020-08-07 13:30,2020-08-07 13:28,,-5.2,0.0,-5.0,0.0,12 - 24 h,Compressor failure
-2020-270,Aasta Hansteen,Rev. 6,2020-08-07 06:44,2020-08-06 10:59,,-2.6,0.0,-5.0,0.0,12-24 hours,Process problems
+2020-270,Aasta Hansteen,Rev. 7,2020-08-07 16:38,2020-08-06 10:59,2020-08-07 16:30,-2.6,0.0,-5.0,0.0,12-24 hours,Process problems
