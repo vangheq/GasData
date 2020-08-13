@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-274,Sleipner,Rev. 1,2020-08-13 11:30,2020-08-13 03:32,,-4.5,0.0,-4.7,-1.5,1-2 days,Process problems
-2020-275,Åsgard,Rev. 1,2020-08-13 09:29,2020-08-10 04:21,,-2.3,0.0,-6.0,0.0,12-24 hrs,Corrective maintenance
+2020-275,Åsgard,Rev. 2,2020-08-13 16:43,2020-08-10 04:21,,-2.3,0.0,-6.0,-4.0,12-24 hrs,Corrective maintenance
