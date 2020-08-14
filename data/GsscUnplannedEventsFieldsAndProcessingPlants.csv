@@ -1,3 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
+2020-276,Nyhamna,New,2020-08-14 17:42,2020-08-14 17:28,,unknown,unknown,unknown,unknown,,
 2020-275,Åsgard,Rev. 5,2020-08-14 16:40,2020-08-10 04:21,,-5.5,-3.0,-5.5,-3.0,5 days,Corrective maintenance
