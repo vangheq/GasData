@@ -1,4 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
+2020-279,field,New,2020-08-17 19:26,2020-08-17 18:51,,unknown,unknown,unknown,unknown,,
 2020-278,field,New,2020-08-17 16:30,2020-08-17 16:15,,unknown,unknown,unknown,unknown,,
 2020-275,Åsgard,Rev. 12,2020-08-17 06:21,2020-08-10 04:21,,-4.5,-4.5,-4.5,-4.5,1-2 weeks,Corrective maintenance
