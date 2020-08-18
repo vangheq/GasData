@@ -1,4 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
+2020-280,field,New,2020-08-18 15:47,2020-08-18 15:14,,unknown,unknown,unknown,unknown,,
 2020-278,Gullfaks,Rev. 2,2020-08-18 06:01,2020-08-17 16:15,,-3.0,0.0,-3.0,0.0,12-24 hours,
 2020-275,Åsgard,Rev. 13,2020-08-18 06:00,2020-08-10 04:21,,-4.5,-4.5,-4.5,-4.5,1-2 weeks,Corrective maintenance
