@@ -11,8 +11,8 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2021-4,Emden,Rev. 1,2019-10-21 12:37,2021-05-10 06:00,2021-05-11 06:00,-46.5,Yearly maintenance
 2021-5,Emden,Rev. 1,2019-10-21 12:37,2021-05-11 06:00,2021-05-12 06:00,-16.5,Yearly maintenance
 2021-43,St.Fergus,New,2019-11-21 10:30,2021-07-01 06:00,2021-07-17 06:00,-28.6,Yearly maintenance
-2021-31,St.Fergus,Rev. 2,2019-11-21 10:30,2021-07-17 06:00,2021-10-24 06:00,-25.6,Yearly maintenance
+2021-31,St.Fergus,Cancelled,2020-08-19 12:47,2021-07-17 06:00,2021-10-24 06:00,0.0,
 2021-3,Easington,Rev. 1,2019-10-21 12:37,2021-09-08 06:00,2021-09-09 06:00,-71.2,Yearly maintenance
 2021-40,Zeebrugge,Rev. 2,2020-06-25 14:16,2021-09-14 06:00,2021-09-15 06:00,-21.4,Yearly maintenance
 2021-22,Dornum,Rev. 1,2019-10-21 12:37,2021-09-22 06:00,2021-09-23 06:00,-41.0,Yearly maintenance
-2021-32,St.Fergus,Rev. 1,2019-10-21 12:37,2021-10-24 06:00,2021-11-24 06:00,-28.6,Yearly maintenance
+2021-32,St.Fergus,Cancelled,2020-08-19 12:47,2021-10-24 06:00,2021-11-24 06:00,0.0,
