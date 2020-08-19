@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-280,Åsgard,Rev. 4,2020-08-18 16:16,2020-08-18 15:14,,-10.0,-1.5,-10.0,-1.5,12-24 hrs,Process problems
+2020-280,Åsgard,Rev. 5,2020-08-19 05:29,2020-08-18 15:14,2020-08-19 05:24,-10.0,-1.5,-10.0,-1.5,12-24 hrs,Process problems
 2020-278,Gullfaks,Rev. 3,2020-08-19 01:54,2020-08-17 16:15,2020-08-18 22:45,-3.0,0.0,-3.0,0.0,12-24 hours,
