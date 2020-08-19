@@ -42,7 +42,7 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-50,Oseberg,Rev. 1,2020-01-22 15:00,2020-10-15 06:00,2020-10-16 06:00,-26.0,Yearly maintenance
 2020-44,Kårstø,Rev. 2,2020-04-21 11:00,2020-10-23 06:00,2020-11-10 06:00,-13.6,Yearly maintenance
 2020-79,Åsgard,Rev. 1,2020-01-21 13:55,2020-10-29 06:00,2020-10-30 06:00,-10.0,Yearly maintenance
-2020-80,Åsgard,New,2019-11-29 14:45,2020-11-01 06:00,2020-12-01 06:00,-7.2,Yearly maintenance
+2020-80,Åsgard,Cancelled,2020-08-19 10:53,2020-11-01 06:00,2020-12-01 06:00,0.0,
 2020-201,Åsgard,New,2020-04-22 11:30,2020-11-12 06:00,2020-11-13 06:00,-4.0,Yearly maintenance
 2020-81,Åsgard,Cancelled,2020-08-19 10:48,2020-12-01 06:00,2021-01-01 06:00,0.0,
 2020-95,Åsgard,Rev. 1,2020-01-21 13:55,2020-12-17 06:00,2020-12-18 06:00,-10.0,Yearly maintenance
