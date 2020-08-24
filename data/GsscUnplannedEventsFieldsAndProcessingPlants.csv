@@ -1,5 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-288,Kvitebjørn,Rev. 3,2020-08-24 06:02,2020-08-23 20:38,,-5.0,0.0,-5.0,0.0,12-24 hrs,Due to shut down at Kollsnes.
-2020-287,Kollsnes,Rev. 3,2020-08-24 06:02,2020-08-23 20:30,,-50.0,0.0,-50.0,0.0,12-24 hrs,Shut down.
+2020-287,Kollsnes,Rev. 4,2020-08-24 15:21,2020-08-23 20:30,,-50.0,-22.5,-50.0,-25.0,20-36 hrs,Shut down and slower ramp-up than expected
 2020-286,Aasta Hansteen,Rev. 4,2020-08-24 15:10,2020-08-23 06:00,2020-08-25 06:00,-11.0,0.0,-11.0,0.0,24-48 hours,Delayed startup after planned maintenance
