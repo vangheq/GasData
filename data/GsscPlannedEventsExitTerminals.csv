@@ -1,7 +1,7 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
 2020-97,Fields Delivering into SEGAL,Rev. 9,2020-08-25 12:18,2020-08-11 06:00,2020-08-30 06:00,-15.0,"Yearly maintenance, Ramp up GD 29.08 impact -11"
 2020-74,St.Fergus,Rev. 3,2020-08-13 13:57,2020-08-28 06:00,2020-08-29 06:00,-14.6,Yearly maintenance
-2020-24,Easington,New,2019-10-11 12:00,2020-09-08 06:00,2020-09-09 06:00,-71.2,Yearly maintenance
+2020-24,Easington,Rev. 1,2020-08-25 12:39,2020-09-08 06:00,2020-09-09 06:00,-32.2,Yearly maintenance
 2020-29,Emden,Rev. 2,2020-02-11 13:00,2020-09-09 06:00,2020-09-10 06:00,-16.5,Yearly maintenance
 2020-62,Zeebrugge,Rev. 1,2019-11-18 13:30,2020-09-10 06:00,2020-09-12 06:00,-9.4,Yearly maintenance
 2020-191,Emden,New,2020-04-21 11:00,2020-09-14 06:00,2020-10-01 06:00,-11.5,Yearly maintenance
