@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-294,Kvitebjørn,Rev. 1,2020-09-09 14:17,2020-09-09 08:20,,-6.0,0.0,-6.0,0.0,12-24 hours,Compressor failure
-2020-295,Kårstø,New,2020-09-09 15:54,2020-09-06 20:30,,unknown,unknown,unknown,unknown,,
+2020-295,Kårstø,Rev. 1,2020-09-09 15:56,2020-09-06 20:30,,0.0,-13.0,0.0,-13.0,2-4 days,Compressor failure
