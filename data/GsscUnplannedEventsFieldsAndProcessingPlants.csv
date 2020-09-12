@@ -1,3 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
+2020-296,Nyhamna,New,2020-09-12 17:14,2020-09-12 17:00,,unknown,unknown,unknown,unknown,,
 2020-295,Kårstø,Rev. 10,2020-09-12 05:56,2020-09-06 20:30,,0.0,0.0,-13.0,0.0,one week,No volume impact expected
