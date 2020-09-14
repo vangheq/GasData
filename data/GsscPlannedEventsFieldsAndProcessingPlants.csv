@@ -4,7 +4,7 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-284,Troll,Rev. 2,2020-09-12 08:21,2020-09-11 06:00,2020-09-17 06:00,-42.0,Yearly maintenance. No availability impact for gas day 12.09 and 13.09.
 2020-47,Ormen Lange,New,2019-10-11 12:00,2020-09-14 06:00,2020-09-19 06:00,-6.0,Yearly maintenance
 2020-285,Troll,New,2020-08-20 13:32,2020-09-17 06:00,2020-10-01 06:00,-30.0,Yearly maintenance
-2020-49,Oseberg,Rev. 4,2020-04-21 11:00,2020-09-17 06:00,2020-10-02 06:00,-2.0,Yearly maintenance
+2020-49,Oseberg,Rev. 5,2020-09-14 12:23,2020-09-17 06:00,2020-09-30 06:00,-2.0,Yearly maintenance
 2020-48,Ormen Lange,New,2019-10-11 12:00,2020-09-21 06:00,2020-09-26 06:00,-6.0,Yearly maintenance
 2020-77,Åsgard,Rev. 3,2020-08-25 12:39,2020-09-23 06:00,2020-09-28 06:00,-27.0,Yearly maintenance
 2020-32,Gullfaks,Rev. 1,2020-01-22 15:00,2020-09-23 06:00,2020-09-24 06:00,-11.0,Yearly maintenance
@@ -16,9 +16,9 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-61,Visund,Rev. 5,2020-08-31 12:15,2020-10-01 06:00,2020-11-08 06:00,-15.0,Yearly maintenance
 2020-31,Gullfaks,Rev. 6,2020-08-31 12:15,2020-10-01 06:00,2020-11-08 06:00,-6.0,Yearly maintenance
 2020-78,Åsgard,Rev. 2,2020-04-22 11:30,2020-10-01 06:00,2020-10-02 06:00,-2.0,Yearly maintenance
-2020-241,Kvitebjørn,New,2020-06-16 10:45,2020-10-06 06:00,2020-10-07 06:00,-16.0,Yearly maintenance
 2020-38,Kollsnes,Rev. 1,2020-05-20 14:15,2020-10-09 06:00,2020-10-29 06:00,-14.5,Yearly maintenance
 2020-50,Oseberg,Rev. 1,2020-01-22 15:00,2020-10-15 06:00,2020-10-16 06:00,-26.0,Yearly maintenance
+2020-241,Kvitebjørn,Rev. 1,2020-09-14 12:23,2020-10-22 06:00,2020-10-23 06:00,-16.0,Yearly maintenance
 2020-44,Kårstø,Rev. 2,2020-04-21 11:00,2020-10-23 06:00,2020-11-10 06:00,-13.6,Yearly maintenance
 2020-79,Åsgard,Rev. 1,2020-01-21 13:55,2020-10-29 06:00,2020-10-30 06:00,-10.0,Yearly maintenance
 2020-201,Åsgard,New,2020-04-22 11:30,2020-11-12 06:00,2020-11-13 06:00,-4.0,Yearly maintenance
