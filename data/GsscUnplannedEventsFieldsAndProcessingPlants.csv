@@ -1,5 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-298,field,New,2020-09-14 10:15,2020-09-14 09:51,,unknown,unknown,unknown,unknown,,
+2020-298,Oseberg,Rev. 1,2020-09-14 11:05,2020-09-14 09:51,,-22.0,0.0,-5.5,0.0,6-12 hours,Compressor failure
 2020-297,field,New,2020-09-14 07:07,2020-09-14 05:46,,unknown,unknown,unknown,unknown,,
-2020-299,field,New,2020-09-14 10:34,2020-09-07 15:19,,unknown,unknown,unknown,unknown,,
+2020-299,Sleipner,Rev. 1,2020-09-14 10:58,2020-09-07 15:19,,-7.0,0.0,-7.6,0.0,12-24 hour,Process problems
