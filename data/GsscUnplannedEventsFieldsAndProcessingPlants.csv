@@ -2,3 +2,4 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Volume impa
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-298,field,New,2020-09-14 10:15,2020-09-14 09:51,,unknown,unknown,unknown,unknown,,
 2020-297,field,New,2020-09-14 07:07,2020-09-14 05:46,,unknown,unknown,unknown,unknown,,
+2020-299,field,New,2020-09-14 10:34,2020-09-07 15:19,,unknown,unknown,unknown,unknown,,
