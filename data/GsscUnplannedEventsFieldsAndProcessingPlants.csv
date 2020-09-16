@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-301,Gina Krog,Rev. 1,2020-09-15 21:16,2020-09-16 06:00,,0.0,-5.8,0.0,-5.8,12-24 hours,Corrective maintenance
-2020-298,Oseberg,Rev. 6,2020-09-15 06:03,2020-09-14 09:51,,0.0,0.0,-12.0,-12.0,2-3 days,Compressor failure
+2020-301,Gina Krog,Rev. 2,2020-09-16 06:07,2020-09-16 06:00,,-5.8,0.0,-5.8,0.0,12-24 hours,Corrective maintenance
+2020-298,Oseberg,Rev. 7,2020-09-16 06:06,2020-09-14 09:51,,0.0,0.0,-12.0,0.0,2-3 days,Compressor failure
