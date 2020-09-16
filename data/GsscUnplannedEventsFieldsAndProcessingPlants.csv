@@ -1,4 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
+2020-303,field,New,2020-09-16 20:49,2020-09-16 15:03,,unknown,unknown,unknown,unknown,,
 2020-301,Gina Krog,Rev. 2,2020-09-16 06:07,2020-09-16 06:00,,-5.8,0.0,-5.8,0.0,12-24 hours,Corrective maintenance
 2020-298,Oseberg,Rev. 8,2020-09-16 19:41,2020-09-14 09:51,2020-09-17 06:00,0.0,0.0,-12.0,0.0,2-3 days,Corrective maintenance. Will be prolonged in event id 2020-302
