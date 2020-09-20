@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-305,Aasta Hansteen,Rev. 1,2020-09-20 14:02,2020-09-20 10:05,,-4.0,0.0,-4.0,0.0,6-12 hours,Signal problems
+2020-305,Aasta Hansteen,Rev. 2,2020-09-20 22:33,2020-09-20 10:05,2020-09-20 17:00,-4.0,0.0,-4.0,0.0,6-12 hours,Signal problems
 2020-303,Gullfaks,Rev. 5,2020-09-20 06:22,2020-09-16 15:03,,4.4,0.0,4.4,0.0,4-5 days,Compressor issues. Increased availabilities.
