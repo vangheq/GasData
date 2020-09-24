@@ -8,7 +8,6 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-77,Åsgard,Rev. 3,2020-08-25 12:39,2020-09-23 06:00,2020-09-28 06:00,-27.0,Yearly maintenance
 2020-32,Gullfaks,Rev. 5,2020-09-23 12:34,2020-09-23 06:00,2020-09-26 06:00,-11.0,Yearly maintenance. Reduced availability for GD. 25.09 is -4M.
 2020-197,Kårstø,Rev. 1,2020-06-17 11:45,2020-09-23 06:00,2020-10-02 06:00,-9.6,Yearly maintenance
-2020-198,Kårstø,New,2020-04-21 11:00,2020-09-23 06:00,2020-09-24 06:00,-57.6,Yearly maintenance
 2020-89,Kollsnes,Rev. 1,2020-05-20 14:15,2020-09-27 06:00,2020-10-01 06:00,-19.5,Yearly maintenance
 2020-91,Kristin,Rev. 4,2020-08-24 13:30,2020-09-28 06:00,2020-09-29 06:00,-16.0,Yearly maintenance
 2020-308,Ormen Lange,New,2020-09-23 14:52,2020-09-28 06:00,2020-10-03 06:00,-6.0,Yearly maintenance
@@ -30,9 +29,8 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2021-65,Åsgard,New,2020-05-26 15:05,2021-02-10 06:00,2021-02-11 06:00,-7.0,Yearly maintenance
 2021-64,Gina Krog,New,2020-05-20 09:00,2021-03-01 06:00,2021-03-02 06:00,-7.0,Yearly maintenance
 2021-59,Åsgard,Rev. 1,2020-09-17 15:04,2021-03-11 06:00,2021-03-12 06:00,-9.0,Yearly maintenance
-2021-50,Oseberg,Cancelled,2020-09-23 14:36,2021-03-16 06:00,2021-03-20 06:00,0.0,
-2021-60,Åsgard,Rev. 1,2020-09-17 15:04,2021-03-18 06:00,2021-03-19 06:00,-7.0,Yearly maintenance
 2021-49,Oseberg,Rev. 2,2020-09-23 14:52,2021-03-18 06:00,2021-03-22 06:00,-8.0,Yearly maintenance
+2021-60,Åsgard,Rev. 1,2020-09-17 15:04,2021-03-18 06:00,2021-03-19 06:00,-7.0,Yearly maintenance
 2021-46,Troll,Rev. 1,2020-03-26 11:35,2021-04-01 06:00,2021-04-02 06:00,-11.0,Yearly maintenance
 2021-54,Troll,New,2020-03-26 11:35,2021-04-07 06:00,2021-04-30 06:00,-11.0,Yearly maintenance
 2021-9,Kollsnes,Rev. 3,2020-02-11 14:00,2021-04-10 06:00,2021-04-30 06:00,-40.5,Yearly maintenance
