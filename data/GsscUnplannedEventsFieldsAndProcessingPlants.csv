@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-313,Kårstø,Rev. 1,2020-09-29 13:54,2020-09-29 06:00,,0.0,0.0,-12.0,0.0,12-24 hrs,Corrective maintenance
+2020-313,Kårstø,Rev. 2,2020-09-30 05:40,2020-09-29 06:00,2020-09-30 05:39,0.0,0.0,-12.0,0.0,12-24 hrs,Corrective maintenance
 2020-312,Kollsnes,Rev. 6,2020-09-29 11:05,2020-09-28 14:13,,-20.0,-12.0,-20.0,-12.0,12-24 hours,Failure - external power supply
