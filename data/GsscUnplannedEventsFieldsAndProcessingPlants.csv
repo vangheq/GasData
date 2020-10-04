@@ -1,3 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
----,---,---,---,---,---,---,---,---,---,---,---
+2020-319,field,New,2020-10-05 00:10,2020-10-05 00:09,,unknown,unknown,unknown,unknown,,
+2020-317,field,New,2020-10-05 00:08,2020-10-05 00:03,,unknown,unknown,unknown,unknown,,
+2020-316,field,New,2020-10-05 00:03,2020-10-05 00:00,,unknown,unknown,unknown,unknown,,
