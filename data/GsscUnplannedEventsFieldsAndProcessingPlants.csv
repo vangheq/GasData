@@ -2,4 +2,4 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Volume impa
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-319,field,New,2020-10-05 00:10,2020-10-05 00:09,,unknown,unknown,unknown,unknown,,
 2020-317,Kvitebjørn,Rev. 1,2020-10-05 00:48,2020-10-05 00:03,,0.0,-11.7,0.0,-11.7,,
-2020-316,Sleipner,Rev. 1,2020-10-05 00:47,2020-10-05 00:00,,0.0,-8.3,0.0,-8.3,,
+2020-316,Sleipner,Rev. 2,2020-10-05 00:50,2020-10-05 00:00,,0.0,-11.7,0.0,-11.7,,
