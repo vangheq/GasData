@@ -1,5 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-321,Kollsnes,Rev. 1,2020-10-05 07:41,2020-10-05 02:28,,-10.0,0.0,-42.5,0.0,12-24 hours,Process problems
+2020-321,Kollsnes,Rev. 2,2020-10-05 20:01,2020-10-05 02:28,2020-10-06 06:00,-10.0,0.0,-42.5,0.0,12-24 hours,Process problems
 2020-317,Kvitebjørn,Rev. 4,2020-10-05 10:09,2020-10-05 00:03,,-11.7,-11.7,-11.7,-11.7,,Labor strike
 2020-316,Sleipner,Rev. 4,2020-10-05 09:50,2020-10-05 00:00,,-11.7,-11.7,-11.7,-11.7,,Labor strike
