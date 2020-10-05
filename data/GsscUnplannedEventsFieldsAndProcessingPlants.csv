@@ -1,5 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-321,Kollsnes,New,2020-10-05 02:52,2020-10-05 02:28,,unknown,unknown,unknown,unknown,,
-2020-317,Kvitebjørn,Rev. 1,2020-10-05 00:48,2020-10-05 00:03,,0.0,-11.7,0.0,-11.7,,
-2020-316,Sleipner,Rev. 2,2020-10-05 00:50,2020-10-05 00:00,,0.0,-11.7,0.0,-11.7,,
+2020-317,Kvitebjørn,Rev. 2,2020-10-05 06:01,2020-10-05 00:03,,-11.7,0.0,-11.7,0.0,,
+2020-316,Sleipner,Rev. 3,2020-10-05 06:01,2020-10-05 00:00,,-11.7,0.0,-11.7,0.0,,
