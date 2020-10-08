@@ -1,4 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
+2020-322,Troll,Rev. 1,2020-10-08 07:54,2020-10-08 07:30,,-5.0,-1.0,-5.0,-1.0,,Delayed increase
 2020-317,Kvitebjørn,Rev. 9,2020-10-08 06:03,2020-10-05 00:03,,-11.7,0.0,-11.7,0.0,,Labor strike
 2020-316,Sleipner,Rev. 9,2020-10-08 06:03,2020-10-05 00:00,,-11.7,0.0,-11.6,0.0,,Labor strike
