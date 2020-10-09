@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-317,Kvitebjørn,Rev. 12,2020-10-09 10:01,2020-10-05 00:03,,-11.7,-11.7,-11.7,-11.7,,"Labor strike, uncertain duration"
-2020-316,Sleipner,Rev. 13,2020-10-09 10:03,2020-10-05 00:00,,-11.7,-11.7,-11.7,-11.7,,"Labor strike, uncertain duration"
+2020-316,Sleipner,Rev. 14,2020-10-09 17:20,2020-10-05 00:00,,-12.5,-11.7,-12.5,-11.7,,"Labor strike, uncertain duration"
