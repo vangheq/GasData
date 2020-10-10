@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-317,Kvitebjørn,Rev. 15,2020-10-10 07:47,2020-10-05 00:03,,-1.1,0.0,-1.1,0.0,,Labor strike cancelled
-2020-316,Sleipner,Rev. 17,2020-10-10 06:01,2020-10-05 00:00,,0.0,0.0,0.0,0.0,,"Labor strike cancelled, startup evening 09.10"
+2020-316,Sleipner,Rev. 18,2020-10-10 08:12,2020-10-05 00:00,,-0.7,0.0,-0.7,0.0,,"Labor strike cancelled, startup evening 09.10"
