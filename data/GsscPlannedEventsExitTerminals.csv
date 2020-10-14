@@ -1,6 +1,8 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
 2021-78,Gina Krog Import,New,2020-09-02 11:58,2021-03-01 06:00,2021-03-02 06:00,-8.0,Yearly maintenance
 2021-44,Fields Delivering into SEGAL,Rev. 4,2020-09-23 14:54,2021-04-15 06:00,2021-05-31 06:00,-15.0,"Yearly maintenance, Ramp up GD 30.05.21 capacity - 12"
+2021-88,Emden,New,2020-10-14 08:42,2021-05-15 06:00,2021-06-03 06:00,-21.5,Yearly maintenance
+2021-87,Dornum,New,2020-10-14 08:42,2021-05-15 06:00,2021-06-03 06:00,-11.0,Yearly maintenance
 2021-85,Emden,New,2020-10-12 13:18,2021-05-17 06:00,2021-05-20 06:00,-21.5,Yearly maintenance
 2021-86,Emden,New,2020-10-12 13:18,2021-06-01 06:00,2021-06-03 06:00,-21.5,Yearly maintenance
 2021-2,Dunkerque,Rev. 4,2020-09-16 10:54,2021-06-09 06:00,2021-06-10 06:00,-33.9,Yearly ESD test
