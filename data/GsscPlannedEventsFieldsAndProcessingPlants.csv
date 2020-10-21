@@ -2,7 +2,7 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2020-31,Gullfaks,Rev. 6,2020-08-31 12:15,2020-10-01 06:00,2020-11-08 06:00,-6.0,Yearly maintenance
 2020-61,Visund,Rev. 5,2020-08-31 12:15,2020-10-01 06:00,2020-11-08 06:00,-15.0,Yearly maintenance
 2020-38,Kollsnes,Rev. 3,2020-10-19 09:43,2020-10-09 06:00,2020-10-29 06:00,-14.5,"Yearly maintenance, additional -2M curtailed for Gasday 17.,18. and 19/10, impact -16.5. || Additional -4M curtailed for Gasday 20.10 and 21.10, impact -18.5."
-2020-329,Oseberg,Rev. 3,2020-10-20 18:22,2020-10-19 06:00,2020-10-23 06:00,19.0,Increased minimum availability due to stop of injection. Impact varies daily. GD 20.10: +19M. GD 21.10 and 22.10: + 16M.
+2020-329,Oseberg,Rev. 4,2020-10-21 06:02,2020-10-19 06:00,2020-10-23 06:00,16.0,Increased minimum availability due to stop of injection. Impact varies daily. GD 20.10: +19M. GD 21.10 and 22.10: + 16M.
 2020-325,Ormen Lange,Rev. 1,2020-10-15 12:47,2020-10-19 06:00,2020-10-31 06:00,-6.0,Yearly maintenance
 2020-326,Kårstø,New,2020-10-12 13:18,2020-10-20 06:00,2020-11-05 06:00,-13.6,Yearly maintenance
 2020-330,Kollsnes,New,2020-10-19 12:11,2020-10-22 06:00,2020-10-30 06:00,-26.5,Yearly maintenance
