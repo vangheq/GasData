@@ -1,3 +1,3 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-348,field,New,2020-11-09 15:52,2020-11-09 15:31,,unknown,unknown,unknown,unknown,,
+2020-348,field,No consequence,2020-11-09 17:20,2020-11-09 15:31,2020-11-09 17:20,0.0,0.0,0.0,0.0,,
