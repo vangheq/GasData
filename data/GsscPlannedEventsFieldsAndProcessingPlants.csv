@@ -1,7 +1,6 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
 2020-61,Visund,Rev. 11,2020-11-09 10:18,2020-10-01 06:00,2020-11-14 06:00,-15.0,Yearly maintenance
 2020-326,Kårstø,Rev. 1,2020-11-03 13:19,2020-10-20 06:00,2020-11-25 06:00,-13.6,Yearly maintenance
-2020-44,Kårstø,Rev. 2,2020-04-21 11:00,2020-10-23 06:00,2020-11-10 06:00,-13.6,Yearly maintenance
 2020-335,Visund,Rev. 3,2020-11-09 10:21,2020-11-14 06:00,2020-11-15 06:00,-7.5,Yearly maintenance
 2020-339,Visund,Rev. 3,2020-11-09 10:22,2020-11-15 06:00,2020-11-16 06:00,-6.0,Yearly maintenance
 2020-309,Gullfaks,Rev. 1,2020-11-05 14:26,2020-11-16 06:00,2020-11-18 06:00,-6.0,Yearly maintenance
@@ -51,21 +50,20 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2021-30,Sleipner,Rev. 1,2019-10-21 12:37,2021-08-27 06:00,2021-09-16 06:00,-12.0,Yearly maintenance
 2021-6,Gina Krog,Rev. 1,2019-10-21 12:37,2021-08-27 06:00,2021-09-17 06:00,-7.0,Yearly maintenance
 2021-38,Troll,Rev. 4,2020-07-22 13:51,2021-09-01 06:00,2021-09-05 06:00,-20.0,Yearly maintenance
-2021-37,Troll,Rev. 3,2020-06-23 11:05,2021-09-05 06:00,2021-09-10 06:00,-44.0,Yearly maintenance
 2021-13,Kollsnes,Rev. 1,2019-10-21 12:37,2021-09-05 06:00,2021-09-10 06:00,-40.5,Yearly maintenance
+2021-37,Troll,Rev. 3,2020-06-23 11:05,2021-09-05 06:00,2021-09-10 06:00,-44.0,Yearly maintenance
 2021-70,Oseberg,Rev. 1,2020-10-22 09:36,2021-09-06 06:00,2021-09-08 06:00,-7.0,Yearly maintenance
 2021-101,Dvalin,New,2020-11-09 09:02,2021-09-13 06:00,2021-09-17 06:00,-9.0,Yearly maintenance
 2021-100,Aasta Hansteen,New,2020-11-09 09:02,2021-09-13 06:00,2021-09-17 06:00,-25.0,Yearly maintenance
 2021-80,Dvalin,New,2020-09-16 10:52,2021-09-14 06:00,2021-09-15 06:00,-9.0,Yearly ESD test
 2021-24,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-14 06:00,2021-09-15 06:00,-37.0,Yearly maintenance
-2021-1,Aasta Hansteen,Cancelled,2020-11-09 09:00,2021-09-14 06:00,2021-09-15 06:00,0.0,
 2021-23,Nyhamna,Rev. 3,2020-09-16 10:56,2021-09-14 06:00,2021-09-15 06:00,-65.0,Yearly ESD test
 2021-25,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-15 06:00,2021-09-18 06:00,-6.0,Yearly maintenance
 2021-97,Oseberg,New,2020-10-22 09:36,2021-09-17 06:00,2021-09-21 06:00,-5.5,Yearly maintenance
 2021-26,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-20 06:00,2021-09-25 06:00,-6.0,Yearly maintenance
 2021-74,Gullfaks,New,2020-08-24 13:30,2021-09-22 06:00,2021-09-23 06:00,-11.0,Yearly maintenance
-2021-17,Kristin,Rev. 4,2020-08-24 13:30,2021-09-22 06:00,2021-09-23 06:00,-16.0,Yearly maintenance
 2021-21,Kårstø,Rev. 3,2020-10-28 13:34,2021-09-22 06:00,2021-09-23 06:00,-12.6,Yearly ESD test
+2021-17,Kristin,Rev. 4,2020-08-24 13:30,2021-09-22 06:00,2021-09-23 06:00,-16.0,Yearly maintenance
 2021-42,Åsgard,Rev. 3,2020-09-17 15:04,2021-09-30 06:00,2021-10-01 06:00,-12.0,Yearly maintenance
 2021-72,Åsgard,Rev. 1,2020-10-21 13:55,2021-10-02 06:00,2021-10-03 06:00,-12.0,Yearly maintenance
 2021-71,Visund,New,2020-07-21 12:49,2021-10-15 06:00,2021-10-16 06:00,-15.0,Yearly maintenance
@@ -76,11 +74,11 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2021-93,Åsgard,New,2020-10-21 13:55,2021-11-18 06:00,2021-11-19 06:00,-13.0,Yearly maintenance
 2021-94,Åsgard,New,2020-10-21 13:55,2021-12-23 06:00,2021-12-24 06:00,-13.0,Yearly maintenance
 2021-95,Åsgard,New,2020-10-21 13:55,2021-12-25 06:00,2021-12-26 06:00,-13.0,Yearly maintenance
-2022-27,Kårstø,New,2020-10-07 12:16,2022-04-21 06:00,2022-05-09 06:00,-13.6,Yearly maintenance
 2022-26,Kårstø,New,2020-10-07 12:16,2022-04-21 06:00,2022-04-30 06:00,-11.6,Yearly maintenance
-2022-11,Kollsnes,New,2020-10-07 12:16,2022-04-22 06:00,2022-04-27 06:00,-30.5,Yearly maintenance
+2022-27,Kårstø,New,2020-10-07 12:16,2022-04-21 06:00,2022-05-09 06:00,-13.6,Yearly maintenance
 2022-12,Kollsnes,New,2020-10-07 12:16,2022-04-22 06:00,2022-05-12 06:00,-19.5,Yearly maintenance
 2022-41,Troll,New,2020-10-07 12:16,2022-04-22 06:00,2022-04-27 06:00,-31.0,Yearly maintenance
+2022-11,Kollsnes,New,2020-10-07 12:16,2022-04-22 06:00,2022-04-27 06:00,-30.5,Yearly maintenance
 2022-42,Troll,New,2020-10-07 12:16,2022-04-27 06:00,2022-05-12 06:00,-20.0,Yearly maintenance
 2022-35,Oseberg,New,2020-10-07 12:16,2022-04-29 06:00,2022-05-17 06:00,-26.0,Yearly maintenance
 2022-28,Kårstø,New,2020-10-07 12:16,2022-04-30 06:00,2022-05-09 06:00,-11.6,Yearly maintenance
@@ -96,10 +94,10 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2022-16,Kollsnes,New,2020-10-07 12:16,2022-06-09 06:00,2022-06-29 06:00,-19.5,Yearly maintenance
 2022-45,Troll,New,2020-10-07 12:16,2022-06-14 06:00,2022-06-17 06:00,-49.0,Yearly maintenance
 2022-17,Kollsnes,New,2020-10-07 12:16,2022-06-14 06:00,2022-06-17 06:00,-48.5,Yearly maintenance
-2022-18,Kollsnes,New,2020-10-07 12:16,2022-06-17 06:00,2022-06-29 06:00,-26.5,Yearly maintenance
 2022-46,Troll,New,2020-10-07 12:16,2022-06-17 06:00,2022-06-29 06:00,-27.0,Yearly maintenance
-2022-47,Troll,New,2020-10-07 12:16,2022-08-31 06:00,2022-09-05 06:00,-31.0,Yearly maintenance
+2022-18,Kollsnes,New,2020-10-07 12:16,2022-06-17 06:00,2022-06-29 06:00,-26.5,Yearly maintenance
 2022-19,Kollsnes,New,2020-10-07 12:16,2022-08-31 06:00,2022-09-05 06:00,-30.5,Yearly maintenance
+2022-47,Troll,New,2020-10-07 12:16,2022-08-31 06:00,2022-09-05 06:00,-31.0,Yearly maintenance
 2022-20,Kollsnes,New,2020-10-07 12:16,2022-08-31 06:00,2022-09-20 06:00,-19.5,Yearly maintenance
 2022-30,Kårstø,New,2020-10-07 12:16,2022-09-01 06:00,2022-09-21 06:00,-13.6,Yearly maintenance
 2022-38,Sleipner,New,2020-10-07 12:16,2022-09-05 06:00,2022-09-10 06:00,-12.0,Yearly maintenance
