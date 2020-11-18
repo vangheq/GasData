@@ -55,12 +55,12 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2021-70,Oseberg,Rev. 1,2020-10-22 09:36,2021-09-06 06:00,2021-09-08 06:00,-7.0,Yearly maintenance
 2021-101,Dvalin,New,2020-11-09 09:02,2021-09-13 06:00,2021-09-17 06:00,-9.0,Yearly maintenance
 2021-100,Aasta Hansteen,New,2020-11-09 09:02,2021-09-13 06:00,2021-09-17 06:00,-25.0,Yearly maintenance
-2021-24,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-14 06:00,2021-09-15 06:00,-37.0,Yearly maintenance
+2021-24,Ormen Lange,Rev. 2,2020-11-18 14:31,2021-09-14 06:00,2021-09-15 06:00,-29.2,Yearly maintenance
 2021-80,Dvalin,New,2020-09-16 10:52,2021-09-14 06:00,2021-09-15 06:00,-9.0,Yearly ESD test
 2021-23,Nyhamna,Rev. 3,2020-09-16 10:56,2021-09-14 06:00,2021-09-15 06:00,-65.0,Yearly ESD test
-2021-25,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-15 06:00,2021-09-18 06:00,-6.0,Yearly maintenance
+2021-25,Ormen Lange,Cancelled,2020-11-18 14:27,2021-09-15 06:00,2021-09-18 06:00,0.0,
 2021-97,Oseberg,New,2020-10-22 09:36,2021-09-17 06:00,2021-09-21 06:00,-5.5,Yearly maintenance
-2021-26,Ormen Lange,Rev. 1,2019-10-21 12:37,2021-09-20 06:00,2021-09-25 06:00,-6.0,Yearly maintenance
+2021-26,Ormen Lange,Cancelled,2020-11-18 14:27,2021-09-20 06:00,2021-09-25 06:00,0.0,
 2021-74,Gullfaks,New,2020-08-24 13:30,2021-09-22 06:00,2021-09-23 06:00,-11.0,Yearly maintenance
 2021-17,Kristin,Rev. 4,2020-08-24 13:30,2021-09-22 06:00,2021-09-23 06:00,-16.0,Yearly maintenance
 2021-21,Kårstø,Rev. 3,2020-10-28 13:34,2021-09-22 06:00,2021-09-23 06:00,-12.6,Yearly ESD test
@@ -108,7 +108,7 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2022-4,Dvalin,New,2020-10-07 12:16,2022-09-09 06:00,2022-09-10 06:00,-9.0,Yearly maintenance
 2022-33,Nyhamna,New,2020-10-07 12:16,2022-09-09 06:00,2022-09-10 06:00,-20.0,Yearly maintenance
 2022-1,Aasta Hansteen,New,2020-10-07 12:16,2022-09-09 06:00,2022-09-10 06:00,-25.0,Yearly maintenance
-2022-34,Ormen Lange,New,2020-10-07 12:16,2022-09-09 06:00,2022-09-10 06:00,-17.0,Yearly maintenance
+2022-34,Ormen Lange,Rev. 1,2020-11-18 14:31,2022-09-09 06:00,2022-09-10 06:00,-7.6,Yearly maintenance
 2022-49,Troll,New,2020-10-07 12:16,2022-09-10 06:00,2022-09-20 06:00,-27.0,Yearly maintenance
 2022-23,Kollsnes,New,2020-10-07 12:16,2022-09-10 06:00,2022-09-20 06:00,-26.5,Yearly maintenance
 2022-37,Skarv,New,2020-10-07 12:16,2022-09-19 06:00,2022-09-24 06:00,-10.5,Yearly maintenance
