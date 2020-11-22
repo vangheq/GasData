@@ -1,5 +1,5 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-353,Aasta Hansteen,Rev. 1,2020-11-21 23:26,2020-11-21 23:15,,0.0,-5.8,0.0,-5.8,,
-2020-352,Kollsnes,Rev. 1,2020-11-21 22:57,2020-11-21 22:35,,-6.0,0.0,-19.0,0.0,,
+2020-352,Kollsnes,Rev. 2,2020-11-22 01:34,2020-11-21 22:35,,-6.0,-5.5,-19.0,-15.5,,Failure - external power supply
 2020-351,field,New,2020-11-21 22:36,2020-11-21 22:33,,unknown,unknown,unknown,unknown,,
