@@ -2,5 +2,5 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Volume impa
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
 2020-354,field,No consequence,2020-11-22 06:59,2020-11-22 02:21,2020-11-22 06:59,0.0,0.0,0.0,0.0,,
 2020-353,Aasta Hansteen,Rev. 2,2020-11-22 06:03,2020-11-21 23:15,,-5.8,0.0,-5.8,0.0,,
-2020-352,Kollsnes,Rev. 5,2020-11-22 15:11,2020-11-21 22:35,2020-11-22 15:10,-16.5,0.0,-26.5,0.0,,Failure - external power supply
+2020-352,Kollsnes,Rev. 6,2020-11-23 01:35,2020-11-21 22:35,2020-11-22 15:10,-16.5,0.0,-26.5,0.0,,Failure - external power supply
 2020-351,field,No consequence,2020-11-22 13:18,2020-11-21 22:33,2020-11-22 13:18,0.0,0.0,0.0,0.0,,
