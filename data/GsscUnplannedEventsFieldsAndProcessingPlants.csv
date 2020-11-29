@@ -1,4 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Volume impact (MSm3/d),Volume impact (MSm3/d),Changed availability (MSm3/d),Changed availability (MSm3/d),Expected duration,Comments
 Event id,Asset affected,Status,Published,Start of event,End of event,Within-day,Day-ahead,Within-day,Day-ahead,Expected duration,Comments
-2020-360,Kårstø,New,2020-11-29 10:30,2020-11-29 10:14,,unknown,unknown,unknown,unknown,,
+2020-360,Kårstø,No consequence,2020-11-29 15:42,2020-11-29 10:14,2020-11-29 15:42,0.0,0.0,0.0,0.0,,
 2020-358,Nyhamna,Rev. 12,2020-11-29 15:04,2020-11-27 06:00,,-40.0,0.0,-40.0,0.0,1-2 days,Nyhamna has started and currently increasing export. Day ahead impact uncertain.
