@@ -10,9 +10,9 @@ Event id,Asset affected,Status,Published,Start of event,End of event,Changed ava
 2021-45,흒gard,Rev. 1,2020-09-17 15:04,2021-01-21 06:00,2021-01-22 06:00,-7.0,Yearly maintenance
 2021-15,Kristin,Rev. 2,2020-11-27 09:06,2021-01-29 06:00,2021-02-01 06:00,-16.0,Yearly maintenance
 2021-107,Gullfaks,New,2020-11-24 09:23,2021-02-15 06:00,2021-02-17 06:00,-6.0,Yearly maintenance
-2021-65,흒gard,Rev. 1,2020-10-21 13:55,2021-02-25 06:00,2021-02-26 06:00,-7.0,Yearly maintenance
+2021-65,흒gard,Cancelled,2020-12-01 10:15,2021-02-25 06:00,2021-02-26 06:00,0.0,
 2021-64,Gina Krog,Rev. 1,2020-11-23 13:33,2021-03-01 06:00,2021-03-02 06:00,-8.3,Yearly maintenance
-2021-59,흒gard,Rev. 2,2020-10-21 13:55,2021-03-01 06:00,2021-03-02 06:00,-9.0,Yearly maintenance
+2021-59,흒gard,Cancelled,2020-12-01 10:14,2021-03-01 06:00,2021-03-02 06:00,0.0,
 2021-109,흒gard,New,2020-11-24 09:23,2021-03-04 06:00,2021-03-05 06:00,-13.0,Yearly maintenance
 2021-96,Oseberg,New,2020-10-22 09:36,2021-03-04 06:00,2021-03-06 06:00,-5.5,Yearly maintenance
 2021-60,흒gard,Rev. 2,2020-10-21 13:55,2021-03-11 06:00,2021-03-12 06:00,-9.0,Yearly maintenance
