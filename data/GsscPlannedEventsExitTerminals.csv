@@ -1,5 +1,4 @@
 Event id,Asset affected,Status,Published,Start of event,End of event,Changed availability (MSm3/d),Comments
-2020-357,Fields Delivering into SEGAL,Cancelled,2020-11-30 21:42,2020-12-01 06:00,2020-12-03 06:00,0.0,
 2020-347,Emden,New,2020-11-05 12:45,2020-12-10 06:00,2020-12-13 06:00,-30.5,Yearly maintenance
 2021-78,Gina Krog Import,New,2020-09-02 11:58,2021-03-01 06:00,2021-03-02 06:00,-8.0,Yearly maintenance
 2021-44,Fields Delivering into SEGAL,Rev. 5,2020-10-22 09:37,2021-04-15 06:00,2021-05-16 06:00,-15.0,"Yearly maintenance, Ramp up GD 15.05.21 capacity - 12"
